@@ -1,0 +1,5 @@
+{
+    "port": 3113,
+    "baseprefix": "/khsavant/proxy",
+    "steamApiKey": "here goes your API key!"
+}
